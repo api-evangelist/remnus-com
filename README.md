@@ -1,4 +1,4 @@
-# remnus-com
+# Remnus
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,108 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-remnus-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://remnus.com/
+Remnus provides a human‑agent collaborative workspace that lets AI agents build, manage and visualize project plans, code, and documentation in real time. The platform offers a free self‑hosted version and tiered SaaS plans for teams, featuring unlimited agents, storage, audit logs, and integrations with popular AI models. Open‑source under AGPL‑3.0, Remnus aims to reduce comprehension debt and streamline AI‑augmented development workflows.
+
+**Areas:** Company · AI · Collaboration · Project Management · Open Source
+
+## Remnus on APIs.io
+
+Everything profiled for Remnus is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/remnus-com/](https://apis.io/providers/remnus-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Remnus API](https://apis.io/apis/remnus-com/remnus-api/) — Remnus provides API access as described in its documentation. No machine‑readable contract was found; the documentation is rendered via JavaScript and thus…
+- [Remnus API](https://apis.io/apis/remnus-com/remnus-com-api/) — Remnus API as documented publicly: 1 operations. Contract generated from the documentation by API Evangelist (2026-11-23); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Remnus API Rules](https://apis.io/rules/remnus-com/remnus-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Remnus Authentication](https://apis.io/security/remnus-com/remnus-com-authentication/)
+- [Remnus Domain Security](https://apis.io/security/remnus-com/remnus-com-domain-security/)
+- [Remnus Vulnerability Disclosure](https://apis.io/security/remnus-com/remnus-com-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Remnus Plans Pricing](https://apis.io/plans/remnus-com/remnus-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.remnus.com/)
+- [Documentation](https://www.remnus.com/docs)
+- [Getting started](https://remnus.com/wiki/getting-started)
+- [Pricing](https://www.remnus.com/pricing)
+- [Support](https://www.remnus.com/contact)
+- [Security](https://www.remnus.com/security)
+- [Privacy policy](https://www.remnus.com/privacy)
+- [GitHub](https://github.com/Ranork/remnus-app)
+
+## API Evangelist rating
+
+**Kin Score 45.7** — developing · rubric 0.28.0 · scored 2026-11-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 38.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 14.3 |
+| Developer ergonomics | 38.1 |
+| Access clarity | 50.6 |
+
+**Agent readiness 34.8** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/remnus-com/](https://apis.io/providers/remnus-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Remnus: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/remnus-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
